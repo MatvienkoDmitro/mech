@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4edefd12-fcb6-45b8-9663-a9c0404f5a07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="4edefd12-fcb6-45b8-9663-a9c0404f5a07" name="Default" comment="" />
     <ignored path="mech.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4edefd12-fcb6-45b8-9663-a9c0404f5a07" time="1383994166923" ignored="false" />
+    <file path="/Dummy.txt" changelist="4edefd12-fcb6-45b8-9663-a9c0404f5a07" time="1383995537460" ignored="false" />
     <file path="/index.html" changelist="4edefd12-fcb6-45b8-9663-a9c0404f5a07" time="1383994371406" ignored="false" />
+    <file path="$PROJECT_DIR$/../math-site/index.html" changelist="4edefd12-fcb6-45b8-9663-a9c0404f5a07" time="1383995545311" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
